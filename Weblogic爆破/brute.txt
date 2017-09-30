@@ -1,0 +1,10 @@
+system password
+weblogic weblogic
+admin security
+system 123456
+admin 123456
+weblogic 123456
+system security
+wlcsystem wlcsystem
+wlpisystem wlpisystem
+weblogic Oracle@123
